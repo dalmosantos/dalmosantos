@@ -1,13 +1,12 @@
 
-# 👋 Hi, I'm Dalmo Santos
-
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/dalmosantos/count.svg)
-  
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalmosantos/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dalmo.santos@gmail.com)
-  
+# 👋 Hi, I'm Dalmo Santos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalmosantos/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dalmo.santos@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=dalmosantos&color=blueviolet&style=flat-square)
+
 </div>
 
 ## 🚀 Professional Overview
@@ -70,36 +69,28 @@ I'm always interested in collaborating on DevOps initiatives, cloud architecture
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dalmosantos&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=dalmosantos&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
+
+---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dalmosantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmosantos&layout=compact&langs_count=8&theme=dracula"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dalmosantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dalmosantos&theme=dracula" alt="GitHub Streak" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dalmosantos&layout=compact&theme=dracula&hide_border=true&langs_count=8)
 
-<div align="center">
-  <a href="https://github.com/dalmosantos">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dalmosantos&theme=dracula" alt="GitHub Activity Summary" />
-  </a>
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dalmosantos&theme=dracula&hide_border=true)
 
-<div align="center">
-  <a href="https://github.com/dalmosantos">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dalmosantos&theme=dracula&utcOffset=0" />
-  </a>
-  <a href="https://github.com/dalmosantos">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dalmosantos&theme=dracula" />
-  </a>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dalmosantos&theme=dracula&hide_border=true)
+
 </div>
 ---
 
@@ -107,52 +98,42 @@ I'm always interested in collaborating on DevOps initiatives, cloud architecture
 
 <div align="center">
 
-### Cloud & Infrastructure
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-### Container & Orchestration
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+### 🐳 Container & Orchestration
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### Development & Frameworks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="PyTest" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
+### 💻 Development & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Monitoring & Observability
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" />
+### 📊 Monitoring & Observability
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
-### Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### CI/CD & Version Control
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="Jenkins" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />
+### 🔄 CI/CD & Version Control
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Operating Systems & Web Servers
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" />
+### 🖥️ Operating Systems & Web Servers
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
@@ -160,9 +141,11 @@ I'm always interested in collaborating on DevOps initiatives, cloud architecture
 
 <div align="center">
   
-### 💬 "Automation is not about replacing humans, it's about empowering them."
+### 💬 _"Automation is not about replacing humans, it's about empowering them."_
 
 [![GitHub followers](https://img.shields.io/github/followers/dalmosantos?label=Follow&style=social)](https://github.com/dalmosantos)
-[![Profile Views](https://komarev.com/ghpvc/?username=dalmosantos&color=brightgreen&style=flat-square&label=Profile+Views)](https://github.com/dalmosantos)
+![GitHub User's stars](https://img.shields.io/github/stars/dalmosantos?style=social)
+
+**Thanks for visiting! 🚀**
 
 </div>
